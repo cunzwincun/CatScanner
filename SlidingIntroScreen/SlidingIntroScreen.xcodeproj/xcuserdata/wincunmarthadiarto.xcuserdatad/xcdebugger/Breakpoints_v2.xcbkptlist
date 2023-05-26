@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "13D78E06-82A3-4E58-9E81-9EB0E18EA8E1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6937A71E-A2F7-4D57-BA52-89D24ACA7CF2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SlidingIntroScreen/ImageSelectedView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "performImageAnalysis(image:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6937A71E-A2F7-4D57-BA52-89D24ACA7CF2 - 186e10f128ae4eb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SlidingIntroScreen.ImageSelectedView.performImageAnalysis(image: Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()"
+                  moduleName = "SlidingIntroScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wincunmarthadiarto/Desktop/App%20Dev%20Academy/SlidingIntroScreen/SlidingIntroScreen/ImageSelectedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "6937A71E-A2F7-4D57-BA52-89D24ACA7CF2 - 186e10f128ae4eb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SlidingIntroScreen.ImageSelectedView.performImageAnalysis(image: Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()"
+                  moduleName = "SlidingIntroScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wincunmarthadiarto/Desktop/App%20Dev%20Academy/SlidingIntroScreen/SlidingIntroScreen/ImageSelectedView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "272">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3D74EBD-0346-4E3B-8B54-74AAD6BA8626"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SlidingIntroScreen/ImageSelectedView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "performImageAnalysis(image:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80606191-46F5-4AB0-A6DB-0455C1ED440B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SlidingIntroScreen/ImageSelectedView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "performImageAnalysis(image:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
